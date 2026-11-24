@@ -1153,5 +1153,9 @@ class StudentViewModelFactory(private val repository: StudentRepository) : ViewM
 * Update or Delete students (can be added with UI buttons) ✅
 * Uses **MVVM + Room + Jetpack Compose + Coroutines** ✅
 
+---
 
+## Contributors
 
+- **MICHAEL FRANCOO** — [@francoomichaeltech](https://github.com/francoomichaeltech) (`francoomichaeltech@gmail.com`)
+- **Edwin Nchia** — [@Edwingudfriend](https://github.com/Edwingudfriend)
